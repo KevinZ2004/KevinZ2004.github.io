@@ -3,6 +3,25 @@ body{
     padding: 0;
     background-color: blue;
   }
+  .Navbar {
+    background-color: #292929;
+    padding-top: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  nav {
+    text-align: center;
+    height: 20px;
+  }
+  li {
+    display: inline;
+    padding: 10px;
+  }
+  li a {
+    color: white;
+    padding: 10px;
+    transition: 0.1s;
+  }
   .box{
     width: 450px;
     background: rgba(0, 0, 0, 0.4);
